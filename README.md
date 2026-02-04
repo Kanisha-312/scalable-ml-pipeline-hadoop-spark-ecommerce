@@ -38,14 +38,6 @@ This project focuses on building an end-to-end pipeline that enables:
 
 ---
 
-### Relevance to ML Engineering
-
-- Demonstrates scalable data preprocessing for ML pipelines
-- Supports feature engineering and batch analytics workflows
-- Highlights familiarity with distributed systems used in production ML stacks
-
----
-
 ### Technology Stack
 
 - Python  
@@ -63,3 +55,4 @@ Master’s in Artificial Intelligence, University at Buffalo
 
 **Nandhakumar Vadivel**  
 Master’s in Artificial Intelligence, University at Buffalo
+
