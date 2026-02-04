@@ -56,3 +56,4 @@ Master’s in Artificial Intelligence, University at Buffalo
 **Nandhakumar Vadivel**  
 Master’s in Artificial Intelligence, University at Buffalo
 
+
